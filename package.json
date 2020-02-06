@@ -1,0 +1,22 @@
+{
+  "name": "web-sockets",
+  "version": "1.0.0",
+  "description": "socket connection for messaging",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiyindele/Web-sockets.git"
+  },
+  "keywords": [
+    "abc"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fiyindele/Web-sockets/issues"
+  },
+  "homepage": "https://github.com/fiyindele/Web-sockets#readme"
+}
