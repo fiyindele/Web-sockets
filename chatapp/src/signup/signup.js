@@ -12,7 +12,17 @@ import style from './style';
 class SignupComponent extends React.Component {
 
     render() {
-        return(<div>Hello world from Sign up</div>);
+
+        const { classes } = this.props;
+
+        return(
+            <main className={classes.main}>
+                <CssBaseline></CssBaseline>
+                <Paper className={classes.paper}>
+                    
+                </Paper>
+            </main>
+        );
     }
 }
 
